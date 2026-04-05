@@ -1,0 +1,118 @@
+Copyright (c) 2026 SAPSE SYSTEMS
+Autor / Author: Galati Adriel Kevin
+
+==================================================
+VERSIÓN EN ESPAÑOL
+==================================================
+
+Todos los derechos reservados.
+
+Este software se proporciona con el código fuente visible únicamente para su inspección y uso personal, educativo y no comercial. Este software NO es software de código abierto (open source).
+
+PERMISOS:
+Se concede permiso para:
+- Ver el código fuente.
+- Utilizar el software para fines personales, educativos y no comerciales.
+
+PROHIBICIONES:
+NO está permitido, directa o indirectamente:
+- Utilizar este software, total o parcialmente, con fines comerciales.
+- Vender, sublicenciar, alquilar, arrendar, ceder, prestar o monetizar este software.
+- Distribuir este software como parte de un producto o servicio pago.
+- Modificar este software y distribuir versiones modificadas.
+- Ofrecer este software como parte de un servicio alojado, SaaS, PaaS, IaaS o similar.
+- Eliminar, alterar u ocultar avisos de copyright, licencia o propiedad intelectual.
+- Utilizar este software para desarrollar, entrenar, mejorar o validar productos o servicios competidores.
+- Utilizar este software con fines de benchmarking, comparación pública, o publicación de resultados de rendimiento sin autorización expresa y por escrito de SAPSE SYSTEMS.
+- Incorporar este software, total o parcialmente, en otros proyectos, repositorios o distribuciones, aun cuando sean no comerciales.
+
+MODIFICACIONES:
+Se permite modificar este software únicamente para uso personal, educativo y no comercial, pero NO está permitido distribuir, publicar ni compartir versiones modificadas bajo ninguna modalidad.
+
+CONFIDENCIALIDAD:
+El código fuente, la arquitectura, los algoritmos, la documentación técnica y cualquier información no pública relacionada con este software se considerarán Información Confidencial. Usted se obliga a no divulgar, publicar ni facilitar dicha información a terceros sin autorización previa y por escrito de SAPSE SYSTEMS, salvo en la medida estrictamente necesaria para el uso permitido por esta licencia.
+
+REVERSE ENGINEERING:
+Queda expresamente prohibido realizar ingeniería inversa, descompilación, desensamblado, análisis estático o dinámico, o cualquier otra técnica destinada a descubrir, extraer o reconstruir la lógica interna, algoritmos, estructuras o secretos comerciales del software, excepto en la medida en que dicha restricción esté expresamente prohibida por la ley aplicable.
+
+CONTRIBUCIONES:
+Cualquier contribución, pull request, parche, issue con código, o mejora enviada a este repositorio se considerará una cesión irrevocable, mundial, gratuita y perpetua de todos los derechos de propiedad intelectual a favor de SAPSE SYSTEMS, quien podrá usar, modificar, sublicenciar, integrar y comercializar dichas contribuciones sin obligación de compensación, reconocimiento ni notificación al contribuyente.
+
+PROPIEDAD INTELECTUAL:
+Todos los derechos, títulos e intereses sobre el software, incluyendo pero no limitado a derechos de autor, secretos comerciales y know-how, pertenecen exclusivamente a SAPSE SYSTEMS.
+
+TERMINACIÓN:
+Esta licencia se rescindirá automáticamente y sin necesidad de notificación previa en caso de incumplimiento de cualquiera de sus términos. Tras la terminación, usted deberá cesar inmediatamente todo uso del software y eliminar todas las copias en su poder o control.
+
+EXCLUSIÓN DE GARANTÍAS:
+Este software se proporciona "TAL CUAL", sin garantías de ningún tipo, ya sean expresas o implícitas, incluyendo pero no limitado a garantías de comerciabilidad, adecuación para un propósito particular, no infracción, disponibilidad, exactitud o ausencia de errores.
+
+LIMITACIÓN DE RESPONSABILIDAD:
+En ningún caso SAPSE SYSTEMS será responsable por daños directos, indirectos, incidentales, especiales, punitivos o consecuentes, incluyendo, entre otros, pérdida de beneficios, pérdida de datos, interrupción del negocio o daños reputacionales, derivados del uso o la imposibilidad de uso del software, aun cuando se hubiera advertido sobre la posibilidad de dichos daños.
+
+SEPARABILIDAD:
+Si alguna disposición de esta licencia fuera declarada inválida o inaplicable, dicha disposición se interpretará en la medida máxima permitida por la ley, y las disposiciones restantes continuarán en pleno vigor y efecto.
+
+ACUERDO COMPLETO:
+Esta licencia constituye el acuerdo completo entre las partes con respecto al software y reemplaza cualquier acuerdo, comunicación o entendimiento previo, ya sea oral o escrito.
+
+LEY APLICABLE Y JURISDICCIÓN:
+Este acuerdo se regirá e interpretará de conformidad con las leyes de la República Argentina. Para cualquier controversia, las partes se someten a la jurisdicción exclusiva de los tribunales ordinarios de la Ciudad Autónoma de Buenos Aires, República Argentina, con renuncia expresa a cualquier otro fuero o jurisdicción.
+
+==================================================
+ENGLISH VERSION
+==================================================
+
+All rights reserved.
+
+This software is provided with source code visible for inspection and personal, educational, and non-commercial use only. This software is NOT open source.
+
+PERMISSIONS:
+Permission is granted to:
+- View the source code.
+- Use the software for personal, educational, and non-commercial purposes.
+
+PROHIBITIONS:
+You may NOT, directly or indirectly:
+- Use this software, in whole or in part, for any commercial purpose.
+- Sell, sublicense, rent, lease, assign, lend, or monetize this software.
+- Distribute this software as part of any paid product or service.
+- Modify this software and distribute modified versions.
+- Offer this software as part of any hosted service, SaaS, PaaS, IaaS, or similar.
+- Remove, alter, or obscure copyright, license, or proprietary notices.
+- Use this software to develop, train, improve, or validate competing products or services.
+- Use this software for benchmarking, public comparisons, or publication of performance results without prior written authorization from SAPSE SYSTEMS.
+- Incorporate this software, in whole or in part, into other projects, repositories, or distributions, even if non-commercial.
+
+MODIFICATIONS:
+You may modify this software solely for personal, educational, and non-commercial use, but you may NOT distribute, publish, or share modified versions in any form.
+
+CONFIDENTIALITY:
+The source code, architecture, algorithms, technical documentation, and any non-public information related to this software shall be considered Confidential Information. You agree not to disclose, publish, or make such information available to any third party without prior written authorization from SAPSE SYSTEMS, except as strictly necessary for permitted use under this license.
+
+REVERSE ENGINEERING:
+You may NOT reverse engineer, decompile, disassemble, perform static or dynamic analysis, or otherwise attempt to discover, extract, or reconstruct the internal logic, algorithms, structures, or trade secrets of the software, except to the extent such restriction is expressly prohibited by applicable law.
+
+CONTRIBUTIONS:
+Any contribution, pull request, patch, code submission, or improvement submitted to this repository shall be deemed an irrevocable, worldwide, royalty-free, and perpetual assignment of all intellectual property rights to SAPSE SYSTEMS. SAPSE SYSTEMS may use, modify, sublicense, integrate, and commercialize such contributions without any obligation to compensate, credit, or notify the contributor.
+
+INTELLECTUAL PROPERTY:
+All right, title, and interest in and to the software, including but not limited to copyrights, trade secrets, and know-how, are and shall remain the exclusive property of SAPSE SYSTEMS.
+
+TERMINATION:
+This license shall automatically terminate upon any breach of its terms. Upon termination, you must immediately cease all use of the software and destroy all copies in your possession or control.
+
+DISCLAIMER OF WARRANTIES:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, AVAILABILITY, OR ERROR-FREE OPERATION.
+
+LIMITATION OF LIABILITY:
+IN NO EVENT SHALL SAPSE SYSTEMS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR REPUTATIONAL DAMAGE, ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+SEVERABILITY:
+If any provision of this license is held to be invalid or unenforceable, such provision shall be enforced to the maximum extent permitted by law, and the remaining provisions shall remain in full force and effect.
+
+ENTIRE AGREEMENT:
+This license constitutes the entire agreement between the parties regarding the software and supersedes all prior or contemporaneous agreements, communications, or understandings, whether oral or written.
+
+GOVERNING LAW AND JURISDICTION:
+This agreement shall be governed by and construed in accordance with the laws of the Republic of Argentina. Any dispute shall be submitted to the exclusive jurisdiction of the ordinary courts of the City of Buenos Aires, Republic of Argentina, and the parties hereby expressly waive any other jurisdiction.
